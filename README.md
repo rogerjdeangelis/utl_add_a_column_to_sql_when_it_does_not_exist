@@ -1,0 +1,2 @@
+# utl_add_a_column_to_sql_when_it_does_not_exist
+In SQL add a numeric column only if it does not exist, if it exists do not corrupt the value.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
